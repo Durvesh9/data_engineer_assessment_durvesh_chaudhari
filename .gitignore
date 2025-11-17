@@ -1,0 +1,15 @@
+Python
+
+*.pyc pycache/venv/*.egg-info/dist/
+
+Docker
+
+mysql_vol/mysql_vol_2/
+
+IDE
+ 
+.idea/.vscode/
+
+OS
+
+.DS_Store
